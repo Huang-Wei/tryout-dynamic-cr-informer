@@ -1,0 +1,8 @@
+apiVersion: example.com/v1
+kind: Foo
+metadata:
+  name: foo1
+  namespace: default
+spec:
+  field1: abc
+  field2: 1

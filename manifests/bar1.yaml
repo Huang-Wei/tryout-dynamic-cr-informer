@@ -1,0 +1,7 @@
+apiVersion: example.com/v1
+kind: Bar
+metadata:
+  name: foo1
+spec:
+  field1: xyz
+  field2: 1
